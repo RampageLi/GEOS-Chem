@@ -18,9 +18,17 @@
 ![SearchAMI](https://github.com/RampageLi/GEOS-Chem/blob/master/Pics/SearchAMI.png?raw=true)
 
 5. 配置 CPU 类型；
+
+![CPUConfigure.png](https://github.com/RampageLi/GEOS-Chem/blob/master/Pics/CPUConfigure.png?raw=true)
+
 6. 第一次启动需要配置密钥，设置密钥名称后，将密钥下载下来；
+
 7. 点击控制台左侧的 `实例`，选中刚刚创建的实例并点击连接；
+
+![ConnectInstance.png](https://github.com/RampageLi/GEOS-Chem/blob/master/Pics/ConnectInstance.png?raw=true)
+
 8. 安装 [Git bash](https://git-scm.com/downloads)；
+
 9. 桌面右击，进入 `git bash`，输入以下命令：
 
 ```
@@ -59,6 +67,8 @@ cd ~/tutorial/gc_merra2_fullchem
 ```
 
 15. 运行完毕需要关闭实例，否则产生高昂费用！
+
+![ShutdownInstance.png](https://github.com/RampageLi/GEOS-Chem/blob/master/Pics/ShutdownInstance.png?raw=true)
 
 
 
