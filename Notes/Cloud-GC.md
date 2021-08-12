@@ -7,17 +7,15 @@
 1. 前往[亚马逊云官网](https://aws.amazon.com/cn/)注册账号，需要提供信用卡等相关信息；
 2. 在页面右上角地区改为 `弗吉尼亚北部`；
 
-![ChangeRegion](C:\Users\LRY\Desktop\GEOS-Chem\Pics\ChangeRegion.png)
+![ChangeRegion](https://github.com/RampageLi/GEOS-Chem/tree/master/Pics/ChangeRegion.png)
 
 3. 启动 `EC2` 虚拟机；
 
-![BootVirtualMachine](C:\Users\LRY\Desktop\GEOS-Chem\Pics\BootVirtualMachine.png)
+![BootVirtualMachine](https://github.com/RampageLi/GEOS-Chem/tree/master/Pics/BootVirtualMachine.png)
 
 4. 在控制台的搜索框输入 `GEOSChem_13.1.2_tutorial_20210706`，选择预装了 `GEOS-Chem` 的系统；
 
-![SearchAMI](C:\Users\LRY\Desktop\GEOS-Chem\Pics\SearchAMI.png)
-
-
+![SearchAMI](https://github.com/RampageLi/GEOS-Chem/tree/master/Pics/SearchAMI.png)
 
 
 
