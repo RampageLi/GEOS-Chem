@@ -7,7 +7,7 @@
 1. 前往[亚马逊云官网](https://aws.amazon.com/cn/)注册账号，需要提供信用卡等相关信息；
 2. 在页面右上角地区改为 `弗吉尼亚北部`；
 
-![ChangeRegion](https://github.com/RampageLi/GEOS-Chem/tree/master/Pics/ChangeRegion.png)
+![ChangeRegion](https://github.com/RampageLi/GEOS-Chem/blob/master/Pics/ChangeRegion.png?raw=true)
 
 3. 启动 `EC2` 虚拟机；
 
